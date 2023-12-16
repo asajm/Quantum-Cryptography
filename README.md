@@ -6,13 +6,6 @@ This project explores the implementation of Shor's Algorithm, a quantum algorith
 ## Implementation Details
 The code involves building a controlled U Gate, identifying qubit lengths, determining accepted values, and building the quantum circuit using Qiskit library.
 
-### Dependencies
-- Qiskit
-- NumPy
-- Matplotlib
-- Pandas
-- Sympy
-
 ## Usage
 1. Clone the repository.
 2. Install the required dependencies.
